@@ -11,3 +11,5 @@ This project is a sophisticated cryptocurrency trading signal generator that com
 - **Signal Generation**: Produces buy and sell signals based on a combination of technical indicators.
 - **Visualization**: Plots price data, moving averages, and technical indicators for easy interpretation.
 - **Continuous Monitoring**: Refreshes data and checks for new signals at regular intervals.
+
+![image](https://github.com/user-attachments/assets/835936fa-5ae6-45f2-894f-6689ce225976)
