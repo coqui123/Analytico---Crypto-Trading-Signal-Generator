@@ -13,3 +13,5 @@ This project is a sophisticated cryptocurrency trading signal generator that com
 - **Continuous Monitoring**: Refreshes data and checks for new signals at regular intervals.
 
 ![image](https://github.com/user-attachments/assets/835936fa-5ae6-45f2-894f-6689ce225976)
+
+![image](https://github.com/user-attachments/assets/dfbcbcf8-622b-4cc0-a244-6aa4db1e6e91)
